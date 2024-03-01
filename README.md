@@ -1,8 +1,20 @@
-# React + Vite
+# Ne İzlesem?
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Ne İzlesem? The Movie Database (TMDB) API kullanarak popüler filmleri gösteren basit bir web uygulaması.
 
-Currently, two official plugins are available:
+## Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[Demo İçin Tıkla (https://gleeful-zuccutto-9f3142.netlify.app/)](https://gleeful-zuccutto-9f3142.netlify.app/)
+
+## Ekran Görünütü
+
+![Uygulama Ekran Görüntüsü](https://img001.prntscr.com/file/img001/JdIM20bAS_C5VtAvGwIo4Q.png)
+
+## Kurulumu
+
+* .env dosyasına API_KEY girin
+
+```bash
+npm install
+```
+
